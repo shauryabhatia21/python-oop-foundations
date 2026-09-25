@@ -1,11 +1,11 @@
 # 🧱 Python OOP & Core Foundations Suite
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![OOP](https://img.shields.io/badge/Paradigm-Object--Oriented-purple?style=for-the-badge&logo=codefactor&logoColor=white)](https://github.com/shauryabhatia10)
+[![OOP](https://img.shields.io/badge/Paradigm-Object--Oriented-purple?style=for-the-badge&logo=codefactor&logoColor=white)](https://github.com/shauryabhatia21)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Verification](https://img.shields.io/badge/Bytecode_Pass-100%25-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/shauryabhatia10)
+[![Verification](https://img.shields.io/badge/Bytecode_Pass-100%25-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/shauryabhatia21)
 
-A comprehensive, production-grade engineering suite demonstrating **Object-Oriented Programming (OOP), Single & Multilevel Inheritance, Encapsulated Inner Classes, Functional Paradigms, and Defensive Exception Handling** built by **[Shaurya Bhatia](https://github.com/shauryabhatia10)**.
+A comprehensive, production-grade engineering suite demonstrating **Object-Oriented Programming (OOP), Single & Multilevel Inheritance, Encapsulated Inner Classes, Functional Paradigms, and Defensive Exception Handling** built by **[Shaurya Bhatia](https://github.com/shauryabhatia21)**.
 
 ---
 
@@ -97,6 +97,6 @@ Compiling '.\04_EXCEPTION_HANDLING\exception_handling_suite.py'...
 ---
 
 <div align="center">
-  <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia10)</b><br/>
+  <b>Author: [Shaurya Bhatia](https://github.com/shauryabhatia21)</b><br/>
   <i>Undergraduate in Artificial Intelligence @ Bennett University</i>
 </div>
